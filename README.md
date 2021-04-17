@@ -2,4 +2,4 @@
 JetBrains Academy: projects
 
 ## Projects:
-1. [SimpleBot](https://replit.com/@dromakin/jetbrainsacademyprojects)
+[Run projects on repl.it](https://replit.com/@dromakin/jetbrainsacademyprojects)
